@@ -1,10 +1,10 @@
 # COM206-Midterm
-Gülşah – Smart Clothing Store Application
-Project Overview
+# Gülşah – Smart Clothing Store Application
+## Project Overview
 Gülşah is a smart clothing store application designed to improve the customer shopping experience by allowing users to browse products, select clothing details, and either reserve items at a branch or purchase them through delivery.
 The application focuses on providing a smooth and modern digital shopping system for clothing stores.
 
-Research Problem
+## Research Problem
 Customers often face difficulties when shopping for clothes, such as:
 Not knowing product availability
 Difficulty selecting the correct size
@@ -12,14 +12,14 @@ Wasting time visiting branches without reserving items
 Limited flexibility between reservation and delivery options
 This project aims to solve these issues through a structured and user-friendly mobile application.
 
-Motivation
+## Motivation
 The motivation behind this project is to digitalize clothing store services by:
 Allowing secure user login
 Showing newest products and offers
 Giving customers flexible purchase or reservation options
 Improving overall shopping efficiency
 
-System Features
+## System Features
 1. Authentication System
 User account creation
 Login using numeric password
