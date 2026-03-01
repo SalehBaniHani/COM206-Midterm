@@ -1,4 +1,4 @@
-# COM206-Midterm
+# *COM206-Midterm*
 # Gülşah – Smart Clothing Store Application
 ## Project Overview
 Gülşah is a smart clothing store application designed to improve the customer shopping experience by allowing users to browse products, select clothing details, and either reserve items at a branch or purchase them through delivery.
@@ -20,12 +20,12 @@ Giving customers flexible purchase or reservation options
 Improving overall shopping efficiency
 
 ## System Features
-1. Authentication System
+### 1. Authentication System
 User account creation
 Login using numeric password
 Optional biometric authentication (fingerprint)
 
-2. Home Page
+### 2. Home Page
 After login, the user sees:
 Newest products
 Special offers
@@ -34,14 +34,14 @@ My Profile
 Cart
 Shop
 
-3. My Profile Page
+### 3. My Profile Page
 Contains:
 Personal information
 Purchase history
 Expenses summary
 Account details (email, phone number, etc.)
 
-4. Shop Page
+### 4. Shop Page
 User can:
 Select clothing item
 View fabric details
@@ -50,7 +50,7 @@ Select preferred color
 After selection:
 User proceeds to confirmation page
 
-5. Reservation or Purchase Option
+### 5. Reservation or Purchase Option
 User chooses between:
 Reserving the item at a selected branch
 Purchasing with home delivery
@@ -60,7 +60,7 @@ If delivery is selected:
 System uses saved address
 Both options lead to:
 
-6. Payment Page
+### 6. Payment Page
 Final step where the user completes the payment process.
 Control Flow
 User creates account / logs in
