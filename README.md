@@ -67,6 +67,18 @@ The Gülşah app was designed to solve these problems by providing:
 
 ---
 
+## 🎓 Course Concepts Applied
+
+During the development of this project, I focused on applying key concepts learned in the first weeks of the course, including:
+
+- 🔁 Navigation between screens using Flutter Navigator  
+- ⬅️ Implementing "Back" functionality to return to the previous screen  
+- 🎯 Designing simple and user-friendly interfaces  
+- 📱 Organizing content in a clear and structured layout  
+- 🧭 Improving user flow between pages (Home → Store → Details → Checkout)
+
+---
+
 ### 💡 Result
 The application improves the user experience by making shopping:
 - Easier  
