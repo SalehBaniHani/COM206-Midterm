@@ -1,6 +1,6 @@
 # Gülşah – Smart Clothing App 👗
 
-## SEN210 – User Interface Programming
+## COM206-VISUAL PROGRAMMING
 
 ---
 
