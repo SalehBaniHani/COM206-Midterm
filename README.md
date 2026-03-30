@@ -8,7 +8,7 @@
 |-------|---------|
 | Name | Saleh Reziq Saleh Bani Hani |
 | Course | COM206 - Visual Programming |
-| Instructor | Deniz DAHMAN |
+| Instructor | DENIZ DAHMAN |
 | Repository | [GitHub](https://github.com/SalehBaniHani/COM206-Midterm) |
 
 ---
